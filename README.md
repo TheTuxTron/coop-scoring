@@ -1,6 +1,8 @@
 # CoopScore — Scoring de riesgo de mora para cooperativas de ahorro y crédito
 
-Proyecto final del módulo **Fundamentos de Inteligencia Artificial** (Universidad Yachay Tech).
+Proyecto final del módulo **Fundamentos de Inteligencia Artificial** (Universidad Yachay Tech) · Joel Alexander Inca Tapia.
+
+**Aplicación en línea:** https://coopscore-yachay.streamlit.app/
 
 CoopScore es un sistema de machine learning que estima el riesgo de que un socio caiga en mora **antes** de aprobar su crédito, explica qué factores determinan ese riesgo y traduce la política de aprobación a costo financiero para la cooperativa. Se publicó como aplicación web en Streamlit Community Cloud.
 
