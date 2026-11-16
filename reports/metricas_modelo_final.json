@@ -1,0 +1,28 @@
+{
+  "umbral_optimo_costo_5a1": 0.27,
+  "test_umbral_optimo": {
+    "AUC": 0.804495238095238,
+    "AUC-PR": 0.642185903820141,
+    "Recall (morosos detectados)": 0.9066666666666666,
+    "Precisión": 0.39080459770114945,
+    "F1": 0.5461847389558233,
+    "TN": 69,
+    "FP": 106,
+    "FN": 7,
+    "TP": 68
+  },
+  "test_umbral_0.5": {
+    "AUC": 0.804495238095238,
+    "AUC-PR": 0.642185903820141,
+    "Recall (morosos detectados)": 0.7733333333333333,
+    "Precisión": 0.5471698113207547,
+    "F1": 0.6408839779005525,
+    "TN": 127,
+    "FP": 48,
+    "FN": 17,
+    "TP": 58
+  },
+  "costo_test_umbral_optimo": 141.0,
+  "costo_test_umbral_0.5": 133.0,
+  "costo_test_aprobar_todos": 375.0
+}
